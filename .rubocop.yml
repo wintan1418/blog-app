@@ -16,6 +16,7 @@ Metrics/ClassLength:
 Metrics/BlockLength:
   ExcludedMethods: ['describe']
   Max: 30
+Metrics/CyclomaticComplexity: disable
 
 
 Style/Documentation:
